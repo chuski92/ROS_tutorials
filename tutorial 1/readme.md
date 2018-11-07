@@ -1,4 +1,4 @@
-Instalación y configuracin del entorno ROS
+## ***Instalación y configuración del entorno ROS***
 
 Lo primero es seguir las indicaciones para instalar ROS:
 http://wiki.ros.org/melodic/Installation
